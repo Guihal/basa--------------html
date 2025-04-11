@@ -37,6 +37,8 @@
 		"webpack-node-externals": "^3.0.0"
 	},
 	"dependencies": {
+		"css-minimizer-webpack-plugin": "^7.0.2",
+		"mini-svg-data-uri": "^1.4.4",
 		"postcss-preset-env": "^9.6.0",
 		"style-loader": "^4.0.0"
 	}
